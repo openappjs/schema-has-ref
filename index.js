@@ -1,7 +1,7 @@
 var isSchema = require('schema-is-schema');
 
 module.exports = function schemaHasRef (schema) {
-  // if no schema, then not relation
+  // if not schema, then not relation
   if (isSchema(schema) !== true) return null;
 
   // if array of items, recurse into items schema
