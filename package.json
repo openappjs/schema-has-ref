@@ -1,6 +1,6 @@
 {
   "name": "schema-has-ref",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "returns whether json-schema has $ref",
   "main": "index.js",
   "directories": {
