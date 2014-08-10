@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "schema-is-schema": "^1.0.0"
+    "schema-is-schema": "^1.1.0"
   },
   "devDependencies": {
     "tape": "^2.14.0"
